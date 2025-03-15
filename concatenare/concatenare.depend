@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706874269 source:d:\euc\concatenare\main.c
+	<stdio.h>
+	<stdlib.h>
+

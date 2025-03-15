@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706888306 source:d:\euc\cifrepagini\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
