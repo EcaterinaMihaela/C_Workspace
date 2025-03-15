@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704717092 source:d:\euc\inlocuire litera\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1728536546 source:d:\euc\firefly\main.c
+	<stdio.h>
+	<stdlib.h>
+
