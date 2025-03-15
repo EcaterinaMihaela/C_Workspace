@@ -1,0 +1,32 @@
+Sirul este:  ana are mere
+Literele din fiecare cuvant sunt:  a n a
+ a r e
+ m e r e
+
+Aparitii litere:
+Litera a apare de 3 ori.
+Litera b apare de 0 ori.
+Litera c apare de 0 ori.
+Litera d apare de 0 ori.
+Litera e apare de 3 ori.
+Litera f apare de 0 ori.
+Litera g apare de 0 ori.
+Litera h apare de 0 ori.
+Litera i apare de 0 ori.
+Litera j apare de 2 ori.
+Litera k apare de 0 ori.
+Litera l apare de 0 ori.
+Litera m apare de 1 ori.
+Litera n apare de 1 ori.
+Litera o apare de 0 ori.
+Litera p apare de 0 ori.
+Litera q apare de 0 ori.
+Litera r apare de 0 ori.
+Litera s apare de 0 ori.
+Litera t apare de 0 ori.
+Litera u apare de 0 ori.
+Litera v apare de 0 ori.
+Litera w apare de 0 ori.
+Litera x apare de 0 ori.
+Litera y apare de 0 ori.
+Litera z apare de 0 ori.

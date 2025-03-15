@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704906081 source:d:\euc\siruri de caract\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

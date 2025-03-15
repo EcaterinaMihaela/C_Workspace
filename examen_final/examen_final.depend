@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706357737 source:d:\euc\examen_final\main.c
+	<stdio.h>
+	<stdlib.h>
+

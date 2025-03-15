@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706372038 source:d:\euc\eliminare si inlocuire in sir\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
