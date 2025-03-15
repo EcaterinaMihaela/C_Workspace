@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706887030 source:d:\euc\aparitii maxime caracter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

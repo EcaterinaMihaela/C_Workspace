@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706948892 source:d:\euc\permutari\main.c
+	<stdio.h>
+	<stdlib.h>
+
