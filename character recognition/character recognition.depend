@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1707938375 source:d:\euc\character recognition\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
