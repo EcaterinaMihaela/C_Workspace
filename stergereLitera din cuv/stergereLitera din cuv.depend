@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706555520 source:d:\euc\stergerelitera din cuv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
