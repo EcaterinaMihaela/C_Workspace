@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706551674 source:d:\euc\make it negative\main.c
+	<stdio.h>
+	<stdlib.h>
+
