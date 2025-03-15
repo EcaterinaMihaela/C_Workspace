@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1707855384 source:d:\euc\testing isupper or not\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
