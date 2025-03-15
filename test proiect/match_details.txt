@@ -1,0 +1,8 @@
+Location: roma
+Referee for red: s
+Referee for blue: s
+red total runs: -207291075
+blue total runs: 1510919136
+red total wickets: 2
+blue total wickets: 8
+Result: blue won the match by 1718210211 runs

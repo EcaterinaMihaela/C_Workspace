@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703959578 source:d:\euc\cautare\main.c
+	<stdio.h>
+	<stdlib.h>
+
