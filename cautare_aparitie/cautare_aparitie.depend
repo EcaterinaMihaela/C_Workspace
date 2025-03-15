@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704718871 source:d:\euc\cautare_aparitie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

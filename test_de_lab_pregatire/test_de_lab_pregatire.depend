@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704897396 source:d:\euc\test_de_lab_pregatire\main.c
+	<stdio.h>
+	<stdlib.h>
+
