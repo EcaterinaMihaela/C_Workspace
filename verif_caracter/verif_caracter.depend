@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1697654673 source:c:\users\ecaterina\desktop\euc\verif_caracter\main.c
+	<stdio.h>
+	<stdlib.h>
+
