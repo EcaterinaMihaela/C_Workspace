@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704548278 source:d:\euc\sirpalindrom\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

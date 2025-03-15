@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704655469 source:d:\euc\eliminare_cuvinte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

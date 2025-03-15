@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1704660536 source:d:\euc\inversare_cuvinte\main.c
+	<stdio.h>
+	<stdlib.h>
+
