@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706523561 source:d:\euc\elim el vect\main.c
+	<stdio.h>
+	<stdlib.h>
+

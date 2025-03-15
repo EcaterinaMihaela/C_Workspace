@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706530587 source:d:\euc\stergere linii matrice\main.c
+	<stdio.h>
+	<stdlib.h>
+
