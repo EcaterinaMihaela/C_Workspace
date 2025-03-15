@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706556857 source:d:\euc\convert string 2 number\main.c
+	<stdio.h>
+	<stdlib.h>
+
