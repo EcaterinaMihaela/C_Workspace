@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1706971020 source:d:\euc\gasire caracter\main.c
+	<stdio.h>
+	<stdlib.h>
+
