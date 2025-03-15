@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1697568297 source:c:\users\ecaterina\desktop\euc\distanta_2pcte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
