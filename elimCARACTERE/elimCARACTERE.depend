@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1706609930 source:d:\euc\elimcaractere\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
