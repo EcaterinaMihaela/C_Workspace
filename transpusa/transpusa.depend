@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1707054015 source:d:\euc\transpusa\main.c
+	<stdio.h>
+	<stdlib.h>
+
